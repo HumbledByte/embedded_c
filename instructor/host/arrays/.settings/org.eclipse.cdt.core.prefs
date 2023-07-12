@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1203183549/Brew_Packages/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1203183549/Brew_Packages/operation=replace
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1203183549/Brew_Packages/value=/opt/homebrew/bin
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1203183549/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.1203183549/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.2093503891/Brew_Packages/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.2093503891/Brew_Packages/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.2093503891/Brew_Packages/value=/opt/homebrew/bin
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.2093503891/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.2093503891/appendContributed=true

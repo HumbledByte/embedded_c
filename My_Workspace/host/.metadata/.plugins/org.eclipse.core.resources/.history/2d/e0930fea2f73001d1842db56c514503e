@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+
+int main(void)
+{
+	printf("Hello World\n");
+
+}
+
+
+* main.c
+ *
+ *  Created on: Dec 3, 2022
+ *      Author: humbledbyte
+ */
+
+
